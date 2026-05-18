@@ -28,17 +28,14 @@ steps:
     arguments: '--configuration $(buildConfiguration)'
   displayName: 'Génération de la solution'
 
-- script: |
-    echo "============================================="
-    echo "Analyse des vulnérabilités - Sec.Market.API"
-    echo "============================================="
-    dotnet list src/Sec.Market.API/Sec.Market.API.csproj package --vulnerable --include-transitive
-    echo ""
-    echo "============================================="
-    echo "Analyse des vulnérabilités - Sec.Market.MVC"
-    echo "============================================="
-    dotnet list src/Sec.Market.MVC/Sec.Market.MVC.csproj package --vulnerable --include-transitive
-  workingDirectory: '$(Build.SourcesDirectory)/H26_-_Securite_des_applications_-_TP5'
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'custom'
+    custom: 'list'
+    arguments: 'package --vulnerable --include-transitive'
+    projects: |
+      $(cheminAPI)
+      $(cheminMVC)
   displayName: 'Analyse des vulnérabilités avec DotNet CLI'
   continueOnError: true
 
