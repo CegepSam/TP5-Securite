@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\Sec.Market.API\\Sec.Market.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\Sec.Market.MVC\\Sec.Market.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

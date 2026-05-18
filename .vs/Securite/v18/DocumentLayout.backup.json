@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\services\\productserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\services\\productserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\services\\userserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\services\\userserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\services\\orderserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\services\\orderserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\services\\customerreviewserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\services\\customerreviewserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.api\\controllers\\customerreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|solutionrelative:src\\sec.market.api\\controllers\\customerreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|solutionrelative:src\\sec.market.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|solutionrelative:src\\sec.market.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|solutionrelative:src\\sec.market.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.api\\sec.market.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|solutionrelative:src\\sec.market.api\\sec.market.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39185437-E28D-4A38-B04F-CA444154EF18}|src\\Sec.Market.API\\Sec.Market.API.csproj|solutionrelative:src\\sec.market.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\obj\\Debug\\net8.0\\xvmtqct1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Sec.Market.API\\obj\\Debug\\net8.0\\xvmtqct1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|c:\\users\\full stack dev\\desktop\\h26_-_securite_des_applications_-_tp5\\src\\sec.market.mvc\\views\\user\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49DE057C-3B6A-4CF3-BF3A-E8B282B22F6A}|src\\Sec.Market.MVC\\Sec.Market.MVC.csproj|solutionrelative:src\\sec.market.mvc\\views\\user\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T22:52:21.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerReviewServiceProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Services\\CustomerReviewServiceProxy.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Services\\CustomerReviewServiceProxy.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Services\\CustomerReviewServiceProxy.cs",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Services\\CustomerReviewServiceProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:50:19.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServiceProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Services\\UserServiceProxy.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Services\\UserServiceProxy.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Services\\UserServiceProxy.cs",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Services\\UserServiceProxy.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:50:07.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderServiceProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Services\\OrderServiceProxy.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Services\\OrderServiceProxy.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Services\\OrderServiceProxy.cs",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Services\\OrderServiceProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:49:54.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServiceProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Services\\ProductServiceProxy.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Services\\ProductServiceProxy.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Services\\ProductServiceProxy.cs",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Services\\ProductServiceProxy.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvy0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:15:18.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\appsettings.json",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T19:40:44.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Program.cs",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T01:05:50.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\Sec.Market.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:32:33.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T00:37:28.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "src\\Sec.Market.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:32:35.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\Sec.Market.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:32:28.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Controllers\\CustomerReviewsController.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.API\\Controllers\\CustomerReviewsController.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Controllers\\CustomerReviewsController.cs",
+              "RelativeToolTip": "src\\Sec.Market.API\\Controllers\\CustomerReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:32:26.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sec.Market.API",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Sec.Market.API.csproj",
+              "RelativeDocumentMoniker": "src\\Sec.Market.API\\Sec.Market.API.csproj",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\Sec.Market.API.csproj",
+              "RelativeToolTip": "src\\Sec.Market.API\\Sec.Market.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T03:28:28.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "xvmtqct1.sql",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\obj\\Debug\\net8.0\\xvmtqct1.sql",
+              "RelativeDocumentMoniker": "src\\Sec.Market.API\\obj\\Debug\\net8.0\\xvmtqct1.sql",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\obj\\Debug\\net8.0\\xvmtqct1.sql",
+              "RelativeToolTip": "src\\Sec.Market.API\\obj\\Debug\\net8.0\\xvmtqct1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-17T02:23:14.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Sec.Market.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.API\\appsettings.json",
+              "RelativeToolTip": "src\\Sec.Market.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T01:53:38.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Views\\Reviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Views\\Reviews\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Views\\Reviews\\Create.cshtml",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Views\\Reviews\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T00:42:17.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Views\\User\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Views\\User\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Views\\User\\SignIn.cshtml",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Views\\User\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T00:41:38.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T00:40:52.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "src\\Sec.Market.MVC\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Full Stack Dev\\Desktop\\H26_-_Securite_des_applications_-_TP5\\src\\Sec.Market.MVC\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "src\\Sec.Market.MVC\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T00:39:24.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
