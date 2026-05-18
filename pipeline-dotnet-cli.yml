@@ -1,0 +1,50 @@
+trigger:
+- none
+
+pool:
+  vmImage: ubuntu-latest
+
+variables:
+  buildConfiguration: 'Release'
+  cheminAPI: '**/src/Sec.Market.API/*.csproj'
+  cheminMVC: '**/src/Sec.Market.MVC/*.csproj'
+
+steps:
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'restore'
+    projects: |
+      $(cheminAPI)
+      $(cheminMVC)
+    feedsToUse: 'select'
+  displayName: 'Restaurer les packages NuGet'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+    projects: |
+      $(cheminAPI)
+      $(cheminMVC)
+    arguments: '--configuration $(buildConfiguration)'
+  displayName: 'Génération de la solution'
+
+- script: |
+    echo "============================================="
+    echo "Analyse des vulnérabilités - Sec.Market.API"
+    echo "============================================="
+    dotnet list src/Sec.Market.API/Sec.Market.API.csproj package --vulnerable --include-transitive
+    echo ""
+    echo "============================================="
+    echo "Analyse des vulnérabilités - Sec.Market.MVC"
+    echo "============================================="
+    dotnet list src/Sec.Market.MVC/Sec.Market.MVC.csproj package --vulnerable --include-transitive
+  workingDirectory: '$(Build.SourcesDirectory)/H26_-_Securite_des_applications_-_TP5'
+  displayName: 'Analyse des vulnérabilités avec DotNet CLI'
+  continueOnError: true
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
+  displayName: 'Publication du package dans Azure DevOps'

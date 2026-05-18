@@ -1,0 +1,42 @@
+trigger:
+- none
+
+pool:
+  vmImage: ubuntu-latest
+
+variables:
+  buildConfiguration: 'Release'
+  cheminAPI: '**/src/Sec.Market.API/*.csproj'
+  cheminMVC: '**/src/Sec.Market.MVC/*.csproj'
+
+steps:
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'restore'
+    projects: |
+      $(cheminAPI)
+      $(cheminMVC)
+    feedsToUse: 'select'
+  displayName: 'Restaurer les packages NuGet'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+    projects: |
+      $(cheminAPI)
+      $(cheminMVC)
+    arguments: '--configuration $(buildConfiguration)'
+  displayName: 'Génération de la solution'
+
+- task: WhiteSource@21
+  inputs:
+    cwd: '$(System.DefaultWorkingDirectory)'
+    projectName: 'Sec.Market.TP5'
+  displayName: 'Analyse des vulnérabilités avec Mend Bolt'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
+  displayName: 'Publication du package dans Azure DevOps'
